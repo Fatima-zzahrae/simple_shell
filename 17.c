@@ -1,3 +1,4 @@
+#include "shell.h"
 
 /**
  * hundle_ctrl - Function that hundles Ctrl-C signal
